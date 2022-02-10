@@ -1,0 +1,1 @@
+Updated Magic Items table with random item selector and refresh button to use refresh button select the random item and then click All credit for list goes to u/Sonofabennet of Reddit if its refreshing the items randomly go to file>Options>Formula and turn off auto calculations 
